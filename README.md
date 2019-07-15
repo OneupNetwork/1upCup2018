@@ -1,5 +1,5 @@
 ## 1up Cup 2018
-<div style="text-align:right;">2018-07-13</div>
+![](https://img.shields.io/badge/date-2018--07--13-0385B1.svg)
 
 ### Problems
 
